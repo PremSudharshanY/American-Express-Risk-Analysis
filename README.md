@@ -111,3 +111,18 @@ Combined view of financial metrics and performance
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how financial data can be used to:
+- Identify **risk exposure**
+- Improve **customer targeting**
+- Optimize **loan and deposit strategies**
+- Support **data-driven banking decisions**
+
+---
+
+## 📬 Contact
+If you found this useful, feel free to connect!
