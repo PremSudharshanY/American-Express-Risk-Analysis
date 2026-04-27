@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=American%20Express%20Risk%20Analysis&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=28&center=true&vCenter=true&width=800&lines=Financial+Risk+Analytics;Loan+%26+Deposit+Insights;Power+BI+Dashboard+Project;End-to-End+Data+Analysis" />
+</p>
 # 💳 American Express Risk Analysis Dashboard
 
 <p align="center">
