@@ -92,28 +92,32 @@ It provides insights into **loans, deposits, customer segmentation, and financia
 ### 🏠 Home Dashboard
 Overview of total clients, loans, deposits, and key KPIs
 
-![Home](screenshots/home.png)
+<img width="1539" height="865" alt="Screenshot 2026-04-27 173702" src="https://github.com/user-attachments/assets/f7eed633-a79a-4230-8c68-f7312dcb1f0c" />
+
 
 ---
 
 ### 💰 Loan Analysis
 Shows loan distribution by income band, nationality, and timeframe
 
-![Loan](screenshots/loan.png)
+<img width="1538" height="865" alt="Screenshot 2026-04-27 173735" src="https://github.com/user-attachments/assets/237f5aa2-4f0e-4221-b301-da5aeb24d1e8" />
+
 
 ---
 
 ### 🏦 Deposit Analysis
 Visualizes deposit breakdown and customer segmentation
 
-![Deposit](screenshots/deposit.png)
+<img width="1543" height="865" alt="Screenshot 2026-04-27 173759" src="https://github.com/user-attachments/assets/7d6aa343-8297-4cfd-afd4-ef70d1ab1b7e" />
+
 
 ---
 
 ### 📊 Summary Dashboard
 Combined view of financial metrics and performance
 
-![Summary](screenshots/summary.png)
+<img width="1541" height="865" alt="Screenshot 2026-04-27 173823" src="https://github.com/user-attachments/assets/7992219f-d62e-4d9e-a637-df4e6e27dc63" />
+
 
 ---
 
